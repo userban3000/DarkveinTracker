@@ -3,7 +3,7 @@
 
 **Lady Darkvein Tracker** will track your (and your opponent's) last Shadow spell, so you always know what Lady Darkvein's Shades will cast.
 
-![Banner](images/dkvt-banner.png?raw=true)
+![Banner](DarkveinTracker/images/dkvt-banner.png?raw=true)
 
 ## Installing
 1. Download *DarkveinTracker.zip* from [here](https://github.com/userban3000/DarkveinTracker/releases).
