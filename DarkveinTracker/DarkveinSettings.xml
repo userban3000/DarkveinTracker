@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)"
+              GeneratedClassNamespace="HDT.Plugins.DarkveinTracker" GeneratedClassName="Settings"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://schemas.microsoft.com/VisualStudio/2004/01/settings ">
+    <Settings>
+        <Setting Name="UseLabels" Type="System.Boolean" Scope="User">
+            <Value>True</Value>
+        </Setting>
+        <Setting Name="TrackForOpponent" Type="System.Boolean" Scope="User">
+            <Value>True</Value>
+        </Setting>
+        <Setting Name="TrackForOpponentOnlyWarlock" Type="System.Boolean" Scope="User">
+            <Value>False</Value>
+        </Setting>
+        <Setting Name="HideWhenLDVNotInDeck" Type="System.Boolean" Scope="User">
+            <Value>True</Value>
+        </Setting>
+        <Setting Name="HideWhenLDVNotInHand" Type="System.Boolean" Scope="User">
+            <Value>False</Value>
+        </Setting>
+    </Settings>
+</SettingsFile>
